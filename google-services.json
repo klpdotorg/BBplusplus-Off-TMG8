@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900599933874",
+    "project_id": "bbplusplus-grade-7and8",
+    "storage_bucket": "bbplusplus-grade-7and8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900599933874:android:bf9d098f1a4210a7b7d2ab",
+        "android_client_info": {
+          "package_name": "com.akshara.BBplusplusOffTamG8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSH06Uf0QQRtWrgXlD6v3TzYn-uqKx3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "tmbbplusplusg8.jks",
+            "storePassword": "tmbb++g8",
+            "alias": "tmbbplusplusg8",
+            "password": "tmbb++g8",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "tmbbplusplusg8.jks",
+            "storePassword": "tmbb++g8",
+            "alias": "tmbbplusplusg8",
+            "password": "tmbb++g8",
+            "keystoreType": "jks"
+        }
+    }
+}
